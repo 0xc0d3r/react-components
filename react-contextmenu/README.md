@@ -8,6 +8,12 @@
 
 ContextMenu in React.
 
+It is a modified version of react-contextmenu by vkbansal.
+
+##Changes
+    - added `onClick` handler for menu-item
+    - removed `event.preventDefault()` line in menu-item.js
+
 ## Installation
 
 ```
